@@ -1,0 +1,43 @@
+body {
+    background-color: Black;
+    
+}
+
+#Imagem1 {
+    width: 25%;
+    height: 200px;
+    border: 8px solid red;
+    padding: 5mm;
+    margin-left: 50mm;
+}
+
+#Imagem2 {
+    width: 30%;
+    border: 8px dotted red;
+    padding: 5mm;
+    margin-left: 70mm;
+}
+
+h1, h2, h3 {
+    color:blueviolet;
+    text-align: center;
+}
+
+p {
+    padding-left: 20mm;
+    font-size: 30px;
+    color: white;
+}
+#Text1 {
+    border: 4px solid red;
+}
+b {
+    color:rgb(0, 225, 255);
+}
+#Text2 {
+    border: 4px dotted green;
+}
+
+#Prof {
+    border: 4px solid gray;
+}
